@@ -1,3 +1,8 @@
+# ============================================
+# Nama  : Septian Dwi Saputra
+# NIM   : F1D022160
+# Kelas : D
+# ============================================
 import sys
 from PyQt5.QtWidgets import (
     QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLabel, QLineEdit,
